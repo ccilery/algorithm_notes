@@ -3,18 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to algorithm_notes's documentation!
+algorithm_notes
 ===========================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   
+   sort/index
+   search/index
+   offer/index
+   leetcode/index
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
